@@ -27,8 +27,7 @@
  
  
 <div class="banner-header">
-<p>estrutura ideal para o<br>
-transporte Das suas mercadorias</p>
+<p></p>
 <img src="img/banner-servicos.jpg" class="img-responsive" alt="banner">
 </div>
  
