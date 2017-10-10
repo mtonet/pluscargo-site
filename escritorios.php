@@ -53,22 +53,6 @@ E-mail: <a href="mailto:bhz@pluscargo.com.br">bhz@pluscargo.com.br</a>
 </div>    
 
 <div class="col-md-6">
-  <h2>BRASÍLIA</h2>
-          <hr>
-          <p>
-Águas Claras – Brasília / DF <br>
-Brasil  / CEP 71919-360 <br>
-Phone: (61) 30483588 <br>
-e-mail: <a href="mailto:cwb@pluscargo.com.br">cwb@pluscargo.com.br</a>
-      </p>         
-
-</div>
-
-     </div>
-
-<div class="row">
-
-<div class="col-md-6">
          
           <h2>Campinas</h2>
           <hr>
@@ -80,6 +64,12 @@ E-mail: <a href="mailto:cpq@pluscargo.com.br">cpq@pluscargo.com.br</a>
  </p>         
 
        </div>
+
+     </div>
+
+<div class="row">
+
+
 
 <div class="col-md-6">
           <h2>CURITIBA</h2>
@@ -93,10 +83,6 @@ e-mail: <a href="mailto:cwb@pluscargo.com.br">cwb@pluscargo.com.br</a>
 
 </div>   
     
-     </div>
-
-<div class="row">
-
 <div class="col-md-6">
          
 
@@ -110,7 +96,14 @@ Phone: +55 (47) 3029-2439 <br>
 e-mail: <a href="mailto:joi@pluscargo.com.br">joi@pluscargo.com.br</a>
       </p>             
 
-       </div>
+       </div>    
+    
+    
+     </div>
+
+<div class="row">
+
+
 
  
    <div class="col-md-6">
@@ -127,13 +120,6 @@ e-mail: <a href="mailto:poa@pluscargo.com.br">poa@pluscargo.com.br</a>
  
        </div> 
 
-
-
-     </div>
-
-
-<div class="row">
-
 <div class="col-md-6">
           <h2>RIO DE JANEIRO</h2>
           <hr>
@@ -147,6 +133,13 @@ E-mail: <a href="mailto:rio@pluscargo.com.br">rio@pluscargo.com.br</a>
        </p>       
       
        </div> 
+
+     </div>
+
+
+<div class="row">
+
+
 
 
 
@@ -164,11 +157,7 @@ e-mail: <a href="mailto:ssz@pluscargo.com.br">ssz@pluscargo.com.br</a>
         
        </div> 
        
-     </div>       
-    
-       <div class="row">   
-       
-<div class="col-md-6">
+       <div class="col-md-6">
               
                <h2>SÃO PAULO</h2>
           <hr>
@@ -182,8 +171,9 @@ e-mail: <a href="mailto:spo@pluscargo.com.br">spo@pluscargo.com.br</a>
       
      
        </div> 
-        
-</div><!-- fim row -->
+       
+     </div>       
+    
       
 </div><!-- fim container -->
 
