@@ -1,0 +1,51 @@
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td colspan="5">Origem:<strong> GENOVA</strong> / Destino: <strong>RIO DE JANEIRO </strong></td>
+</tr>
+<tr>
+<td bgcolor="#F5F5F5"><strong>M/V</strong></td>
+<td bgcolor="#F5F5F5"><strong>VG</strong></td>
+<td bgcolor="#F5F5F5"><strong>ETA</strong></td>
+<td bgcolor="#F5F5F5"><strong>ETD</strong></td>
+<td bgcolor="#F5F5F5"><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>MSC MADRID</td>
+<td>1</td>
+<td>11/06/2016</td>
+<td>24/05/2016</td>
+<td>19/05/2016</td>
+</tr>
+<tr>
+<td>MSC BARCELONA</td>
+<td>2</td>
+<td>25/06/2016</td>
+<td>07/06/2016</td>
+<td>01/06/2016</td>
+</tr>
+<tr>
+<td>MSC ALICANTE</td>
+<td>3</td>
+<td>09/07/2016</td>
+<td>21/06/2016</td>
+<td>16/06/2016</td>
+</tr>
+<tr>
+<td>RIO DE JANEIRO</td>
+<td>4</td>
+<td>23/07/2016</td>
+<td>05/07/2016</td>
+<td>30/06/2016</td>
+</tr>
+<tr>
+<td>MSC MADRID</td>
+<td>5</td>
+<td>06/08/2016</td>
+<td>19/07/2016</td>
+<td>14/07/2016</td>
+</tr>
+</tbody>
+</table>
+</div>

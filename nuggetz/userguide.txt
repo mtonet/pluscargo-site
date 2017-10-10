@@ -1,0 +1,34 @@
+Nuggetz v2.0.0
+==============
+
+License: Nuggetz v2.0.0 is ditributed under the BSD License. See license.txt for details
+
+Setup
+=====
+
+A. Copy the nuggetz folder to the "root" directory of your website
+
+B. Open /nuggetz/config.php, and choose a strong password, for additional security change the default username. Also you need to enter the domain name of your website.
+
+C. In any file in which you wish to use Nuggetz...
+
+	1. Ensure webpage in root directory
+	2. Ensure webpage file extension is .php
+	3. Copy paste the following code, between the <head> and </head> tags i.e.
+
+		<?php
+			// Place this in your between your <head> and </head> tags
+			require_once("nuggetz/init.php");
+		?>
+
+	4. Add a nugget to your page to create an instance of the nuggetz class
+
+		<?php new nuggetz('test');?>
+
+
+	5. Add a login/logout facility to your page
+		
+		<?php new nuggetzControl();?>	
+
+	
+Thats all there is to it! 

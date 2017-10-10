@@ -1,0 +1,696 @@
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td colspan="5">Origem:<strong> BARCELONA</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr>
+<td bgcolor="#F5F5F5"><strong>M/V</strong></td>
+<td bgcolor="#F5F5F5"><strong>VG</strong></td>
+<td bgcolor="#F5F5F5"><strong>ETA</strong></td>
+<td bgcolor="#F5F5F5"><strong>ETD</strong></td>
+<td bgcolor="#F5F5F5"><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>MSC CADIZ</td>
+<td>MM625A</td>
+<td>16/07/16</td>
+<td>01/07/16</td>
+<td>27/06/16</td>
+</tr>
+<tr>
+<td>RIO DE JANEIRO</td>
+<td>MM626A</td>
+<td>23/07/16</td>
+<td>08/07/16</td>
+<td>04/07/16</td>
+</tr>
+<tr>
+<td>MSC CORUNA</td>
+<td>MM627A</td>
+<td>30/07/16</td>
+<td>15/07/16</td>
+<td>11/07/16</td>
+</tr>
+<tr>
+<td>MSC MADRID</td>
+<td>MM628A</td>
+<td>06/08/16</td>
+<td>22/07/16</td>
+<td>18/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5">Origem: <strong>KELLUNG</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+<td><strong>M/V</strong></td>
+<td><strong>VG</strong></td>
+<td><strong>ETA</strong></td>
+<td><strong>ETD</strong></td>
+<td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>NYK   LYNX</td>
+<td>2010E</td>
+<td>31/07/16</td>
+<td>01/07/16</td>
+<td>28/06/16</td>
+</tr>
+<tr>
+<td>NYK LYRA</td>
+<td>2011E</td>
+<td>07/08/16</td>
+<td>07/07/16</td>
+<td>04/07/16</td>
+</tr>
+<tr>
+<td>NYK LODESTAR</td>
+<td>2001W</td>
+<td>14/08/16</td>
+<td>14/07/16</td>
+<td>11/07/16</td>
+</tr>
+<tr>
+<td>MOL PREMIUM</td>
+<td>2102E</td>
+<td>21/08/16</td>
+<td>21/07/16</td>
+<td>18/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>QINGDAO</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>CMA   CGM MEKONG</td>
+  <td>123W</td>
+  <td>31/07/16</td>
+  <td>27/06/16</td>
+  <td>24/06/16</td>
+</tr>
+<tr>
+<td>CSAV TYNDALL</td>
+<td>27W</td>
+<td>07/08/16</td>
+<td>04/07/16</td>
+<td>01/07/16</td>
+</tr>
+<tr>
+<td>PRAGUE EXPRESS</td>
+<td>044W</td>
+<td>14/08/16</td>
+<td>11/07/16</td>
+<td>08/07/16</td>
+</tr>
+<tr>
+<td> CAP SAN JUAN</td>
+<td>629W</td>
+<td>21/08/16</td>
+<td>18/07/16</td>
+<td>15/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>SHANGHAI</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>AISOPOS</td>
+  <td>004W</td>
+  <td>27/07/16</td>
+  <td>26/06/16</td>
+  <td>22/06/16</td>
+</tr>
+<tr>
+<td>VALUE</td>
+<td>1180-013W</td>
+<td>03/08/16</td>
+<td>03/07/16</td>
+<td>29/06/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>VALIANT</td>
+<td>1181-013W</td>
+<td>10/08/16</td>
+<td>10/07/16</td>
+<td>06/07/16</td>
+</tr>
+<tr>
+<td>TUCAPEL</td>
+<td>628W</td>
+<td>17/08/16</td>
+<td>17/07/16</td>
+<td>13/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td colspan="5">
+  <p>Origem: <strong>SINGAPURA</strong> / Destino: <strong>SANTOS</strong></p>
+  </td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>MAERSK   LOIRQUEN</td>
+<td>623W</td>
+<td>16/07/16</td>
+<td>26/06/16</td>
+<td>23/06/16</td>
+</tr>
+<tr>
+<td>MSC SARA   ELENA</td>
+<td>624W</td>
+<td>23/07/16</td>
+<td>03/07/16</td>
+<td>30/06/16</td>
+</tr>
+<tr>
+<td>VALUE</td>
+<td>1180-031w</td>
+<td>04/08/16</td>
+<td>11/07/16</td>
+<td>08/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>TILBURY</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td style="text-align: left;">CAP   SAN ARTEMISSIO</td>
+  <td>627S</td>
+  <td>21/07/16</td>
+  <td>02/07/16</td>
+  <td>29/06/16</td>
+</tr>
+<tr>
+<td style="text-align: left;">CAP SAN   LORENZO</td>
+<td>628S</td>
+<td>28/07/16</td>
+<td>09/07/16</td>
+<td>06/07/16</td>
+</tr>
+<tr>
+<td style="text-align: left;">CAP SAN AUGUSTIN</td>
+<td style="text-align: left;">629S</td>
+<td style="text-align: left;">04/08/16</td>
+<td style="text-align: left;">16/07/16</td>
+<td style="text-align: left;">13/07/16</td>
+</tr>
+<tr>
+<td>CAP SAN ANTONIO</td>
+<td>630S</td>
+<td>11/08/16</td>
+<td>23/07/16</td>
+<td>20/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>HAMBURGO</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>CAP   SAN RAPHAEL</td>
+<td>626S</td>
+<td>14/07/16</td>
+<td>27/06/16</td>
+<td>24/06/16</td>
+</tr>
+<tr>
+<td>CAP SAN   ARTEMISSIO</td>
+<td>627S</td>
+<td>21/07/16</td>
+<td>04/07/16</td>
+<td>01/07/16</td>
+</tr>
+<tr>
+<td>CAP SAN LORENZO</td>
+<td>628S</td>
+<td>28/07/16</td>
+<td>11/07/16</td>
+<td>08/07/16</td>
+</tr>
+<tr>
+<td>CAP SAN AUGUSTIN</td>
+<td>629S</td>
+<td>04/08/16</td>
+<td>18/07/16</td>
+<td>15/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>GENOVA</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>MSC   CADIZ</td>
+<td>625S</td>
+<td>16/07/16</td>
+<td>28/06/16</td>
+<td>23/06/16</td>
+</tr>
+<tr>
+  <td>RIO DE   JANEIRO</td>
+  <td>626S</td>
+  <td>23/07/16</td>
+  <td>05/07/16</td>
+  <td>30/06/16</td>
+</tr>
+<tr>
+  <td>MSC CORUNA</td>
+  <td>627S</td>
+  <td>30/07/16</td>
+  <td>12/07/16</td>
+  <td>07/07/16</td>
+</tr>
+<tr>
+<td>MSC MADRID</td>
+<td>628S</td>
+<td>06/08/16</td>
+<td>19/07/16</td>
+<td>14/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>BUSAN</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>CSAV   TYNDALL</td>
+  <td>627W</td>
+  <td>07/08/16</td>
+  <td>01/07/16</td>
+  <td>28/06/16</td>
+</tr>
+<tr>
+<td>Prague   Express</td>
+<td>44W</td>
+<td>14/08/16</td>
+<td>08/07/16</td>
+<td>05/07/16</td>
+</tr>
+<tr>
+<td>Cap San Juan</td>
+<td>629W</td>
+<td>21/08/16</td>
+<td>15/07/16</td>
+<td>12/07/16</td>
+</tr>
+<tr>
+  <td>Cap San Tainaro</td>
+  <td>630W</td>
+  <td>28/08/16</td>
+  <td>22/07/16</td>
+  <td>19/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>HONG KONG</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>MSC   SARA ELENA</td>
+<td>624A</td>
+<td>23/07/16</td>
+<td>28/06/16</td>
+<td>23/06/16</td>
+</tr>
+<tr>
+<td>MSC Vita</td>
+<td>625A</td>
+<td>30/07/16</td>
+<td>05/07/16</td>
+<td>30/06/16</td>
+</tr>
+<tr>
+<td>MOL Anchorage</td>
+<td>626A</td>
+<td>06/08/16</td>
+<td>12/07/16</td>
+<td>07/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td>MSC Naomi</td>
+  <td>627A</td>
+  <td>13/08/16</td>
+  <td>19/07/16</td>
+  <td>14/07/16</td>
+</tr>
+<tr>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+<td><br /></td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>SHENZHEN</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>MSC   SARA ELENA&nbsp;</td>
+  <td>624A</td>
+  <td>23/07/16</td>
+  <td>27/06/16</td>
+  <td>22/06/16</td>
+</tr>
+<tr>
+<td>MSC VITA</td>
+<td>625A</td>
+<td>30/07/16</td>
+<td>04/07/16</td>
+<td>29/06/16</td>
+</tr>
+<tr>
+<td>MSC ANCHORAGE</td>
+<td>626A</td>
+<td>06/08/16</td>
+<td>11/07/16</td>
+<td>06/07/16</td>
+</tr>
+<tr>
+<td>MSC NAOMI</td>
+<td>627A</td>
+<td>13/08/16</td>
+<td>18/07/16</td>
+<td>13/07/16</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>MIAMI</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>MONTE   AZUL</td>
+  <td>73S</td>
+  <td>13/07/16</td>
+  <td>01/07/16</td>
+  <td>28/06/16</td>
+</tr>
+<tr>
+<td>TABEA</td>
+<td>12S</td>
+<td>20/07/16</td>
+<td>08/07/16</td>
+<td>05/07/16</td>
+</tr>
+<tr>
+<td>MONTE ACONCAGUA</td>
+<td>68S</td>
+<td>27/07/16</td>
+<td>15/07/16</td>
+<td>12/07/16</td>
+</tr>
+<tr>
+<td>MONTE ROSA</td>
+<td>65S</td>
+<td>03/08/16</td>
+<td>22/07/16</td>
+<td>19/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>NINGBO</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>CMA   CGM MEKONG</td>
+  <td>115B</td>
+  <td>04/08/16</td>
+  <td>02/07/16</td>
+  <td>27/06/16</td>
+</tr>
+<tr>
+<td>CSAV TYNDALL</td>
+<td>627W</td>
+<td>11/08/16</td>
+<td>09/07/16</td>
+<td>04/07/16</td>
+</tr>
+<tr>
+<td>PRAGUE EXPRESS</td>
+<td>044W</td>
+<td>18/08/16</td>
+<td>16/07/16</td>
+<td>11/07/16</td>
+</tr>
+<tr>
+<td>CAP SAN JUAN</td>
+<td>629W</td>
+<td>25/08/16</td>
+<td>23/07/16</td>
+<td>18/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5">Origem: <strong>XIAMEN</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+  <td>MOL   SOLUTION</td>
+  <td>062W</td>
+  <td>30/07/16</td>
+  <td>02/07/16</td>
+  <td>28/06/16</td>
+</tr>
+<tr>
+<td>KOTA LEGIT</td>
+<td>013W</td>
+<td>11/08/16</td>
+<td>09/07/16</td>
+<td>05/07/16</td>
+</tr>
+<tr>
+<td>BILBAO BRIDGE</td>
+<td>129W</td>
+<td>13/08/16</td>
+<td>16/07/16</td>
+<td>12/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+  <td colspan="5">Origem: <strong>ANTUERPIA</strong> / Destino: <strong>SANTOS</strong></td>
+</tr>
+<tr bgcolor="#F5F5F5">
+  <td><strong>M/V</strong></td>
+  <td><strong>VG</strong></td>
+  <td><strong>ETA</strong></td>
+  <td><strong>ETD</strong></td>
+  <td><strong>DEAD LINE</strong></td>
+</tr>
+<tr>
+<td>CAP   SAN RAPHAEL</td>
+<td>626S</td>
+<td>14/07/16</td>
+<td>29/06/16</td>
+<td>26/06/16</td>
+</tr>
+<tr>
+<td>CAP SAN ARTEMISSIO</td>
+<td>627S</td>
+<td>21/07/16</td>
+<td>06/07/16</td>
+<td>03/07/16</td>
+</tr>
+<tr>
+<td>CAP SAN LORENZO</td>
+<td>628S</td>
+<td>28/07/16</td>
+<td>13/07/16</td>
+<td>10/07/16</td>
+</tr>
+<tr>
+<td>CAP SAN AUGUSTIN</td>
+<td>629S</td>
+<td>04/08/16</td>
+<td>20/07/16</td>
+<td>17/07/16</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>

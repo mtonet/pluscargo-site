@@ -1,0 +1,31 @@
+Version 2.0.0 - 05 March 2011
+=============================
+ - Complete rewrite, more reliable, better performance
+ - TinyMCE editor replaces FCKEditor
+ - JQuery javascript framework replaces BBC's Glow Javascript Framework
+ - Minified Jquery loaded from Google CDN
+ - Dialog integrated notification of bad username or password
+ - config.php allows domain name to be set, rather than rely of PHP server vars 	 
+ - nuggetz.php loader renamed init.php
+ - UI refreshed with CSS 3.0
+	
+Version 1.0.3 - 26/05/2010
+==========================
+ - Improved session verification before allowing saving of data. Thanks to High-Tech Bridge of Switzerland
+ - Checks to ensure DOM is ready before before running Glow functions
+ - Notification of bad username/password in progress, but for now included a basic notification 
+   of incorrect username or password provided by Marcin Kierklo - Thanks.  
+
+Version 1.0.2 - 16/02/2010
+==========================
+ - Implemented better warning control, so behaves on more PHP installations.
+
+Version 1.0.1 - 10/12/2009
+==========================
+ - Nuggetz.css amended to restrict a:link styles interferring with website css
+ - ajaxsave.php amended with session check and better sanitisation of variables. Thanks to Amol Naik.
+ - Bug fix, empty nuggetz could create problems, so prevented saving empty nuggetz.
+
+Version 1.0 - 01/12/2009
+========================
+ - First stable release

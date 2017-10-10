@@ -1,0 +1,44 @@
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td colspan="5">Destino: <strong>IT&Aacute;LIA (GENOVA 22 DIAS) </strong></td>
+</tr>
+<tr>
+<td><strong>VESSEL</strong></td>
+<td><strong>VG</strong></td>
+<td><strong>ETA</strong></td>
+<td><strong>DEAD LINE</strong></td>
+<td><strong>HORA</strong></td>
+</tr>
+<tr>
+<td>MSC   BARCELONA</td>
+<td>618R</td>
+<td>14/05/2016</td>
+<td>06/05/2016</td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>MSC VIGO</td>
+<td>619R</td>
+<td>20/05/2016</td>
+<td>12/05/2016</td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>MSC ALICANTE</td>
+<td>620R</td>
+<td>28/05/2016</td>
+<td>19/05/2016</td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>MSC CADIZ</td>
+<td>621R</td>
+<td>03/06/2016</td>
+<td>25/05/2016</td>
+<td>11:00</td>
+</tr>
+</tbody>
+</table>
+</div>

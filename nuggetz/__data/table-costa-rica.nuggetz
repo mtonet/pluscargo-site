@@ -1,0 +1,44 @@
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td colspan="5">Destino: <strong>COSTA RICA (SAN JOSE 31 DIAS) VIA COLON FREE ZONE </strong></td>
+</tr>
+<tr>
+<td bgcolor="#F5F5F5"><strong>VESSEL</strong></td>
+<td bgcolor="#F5F5F5"><strong>VG</strong></td>
+<td bgcolor="#F5F5F5"><strong>ETA</strong></td>
+<td bgcolor="#F5F5F5"><strong>DEAD LINE</strong></td>
+<td bgcolor="#F5F5F5"><strong>HORA</strong></td>
+</tr>
+<tr>
+<td>MONTE   SARMIENTO</td>
+<td>068N</td>
+<td>13/05/2016</td>
+<td>04/05/2016</td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>MONTE PASCOAL</td>
+<td>072N</td>
+<td>20/05/2016</td>
+<td>11/05/2016</td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>MONTE CERVANTES</td>
+<td>071N</td>
+<td>27/05/2016</td>
+<td>18/05/2016</td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>MONTE VERDE</td>
+<td>065N</td>
+<td>03/06/2016</td>
+<td>25/05/2016</td>
+<td>11:00</td>
+</tr>
+</tbody>
+</table>
+</div>
