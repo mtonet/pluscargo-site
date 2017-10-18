@@ -40,7 +40,7 @@
         <div class="col-md-6">
           <h2>Contato</h2>
           <hr>
-          <p>Selecioneeeeeee o escritório que você deseja falar ou nos envie uma mensagem e esclareça todas as suas dúvidas sobre os nossos serviços e consulte nossos fretes.</p>
+          <p>Selecioneeeeeeeeeee o escritório que você deseja falar ou nos envie uma mensagem e esclareça todas as suas dúvidas sobre os nossos serviços e consulte nossos fretes.</p>
         </div>                        
       </div>
 <hr>
